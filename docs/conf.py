@@ -1,8 +1,8 @@
 # -- Project information -----------------------------------------------------
 
-project = "Quantecon Book Theme"
-copyright = "2020"
-author = "The Quantecon Project"
+project = "Offline Policy Evaluation in Recommender Systems"
+copyright = "2022"
+author = "RecoHut Projects"
 
 master_doc = "index"
 
@@ -47,11 +47,11 @@ numfig = True
 # a list of builtin themes.
 #
 html_theme = "quantecon_book_theme"
-html_logo = "_static/qe-logo.png"
+html_logo = "_static/jbook-logo.png"
 html_title = "Quantecon Book Theme"
 html_copy_source = True
 html_sourcelink_suffix = ""
-html_favicon = "_static/qe-logo.png"
+html_favicon = "_static/jbook-logo.png"
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
@@ -65,7 +65,7 @@ thebe_config = {
 
 html_theme_options = {
     "path_to_docs": "docs",
-    "repository_url": "https://github.com/QuantEcon/quantecon-book-theme",
+    "repository_url": "https://github.com/sparsh-ai/quantecon-book-theme",
     # "repository_branch": "gh-pages",  # For testing
     "launch_buttons": {
         "binderhub_url": "https://mybinder.org",
@@ -78,7 +78,7 @@ html_theme_options = {
     "use_issues_button": True,
     "use_repository_button": True,
     "expand_sections": ["reference/index"],
-    "logo_url": "https://quantecon.org"
+    "logo_url": "https://github.com/recohut"
     # For testing
     # "home_page_in_toc": True,
     # "single_page": True
