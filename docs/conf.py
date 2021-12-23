@@ -47,11 +47,11 @@ numfig = True
 # a list of builtin themes.
 #
 html_theme = "quantecon_book_theme"
-html_logo = "_static/jbook-logo.png"
+html_logo = "_static/jbook-logo.svg"
 html_title = "Quantecon Book Theme"
 html_copy_source = True
 html_sourcelink_suffix = ""
-html_favicon = "_static/jbook-logo.png"
+html_favicon = "_static/jbook-logo.svg"
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
